@@ -7,7 +7,7 @@ public class Circle {
 		double pi=3.142,area;
 		radius=9;
 		area=pi*radius*radius;
-		System.out.println("Area of Circle is"+area);
+		System.out.println("Area of Circle is = " +area);
 
 	}
 
